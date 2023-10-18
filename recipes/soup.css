@@ -1,0 +1,24 @@
+html {
+  background-color: beige;
+  font-family: Arial, Helvetica, sans-serif;
+}
+li {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+ol {
+  margin-top: 20px;
+}
+img {
+  border-radius: 20px;
+  width: 300px;
+  float: left;
+  margin-bottom: 5px;
+  margin-right: 5px;
+}
+.ingredients {
+  margin-top: 280px;
+}
+.description {
+  text-align: left;
+}
